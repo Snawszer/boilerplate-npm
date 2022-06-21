@@ -3,6 +3,7 @@
 	"author": "Zachary Grigg",
 	"description": "A project to learn npm packages",
 	"keywords": ["learn", "packages","coding","freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
